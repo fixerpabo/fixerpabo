@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Chetana 
-- 👀 I’m interested in Products 
-- 🌱 I’m currently learning Solidity and cloud 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @fixerpabo_13
 <h1 align="center">Hi 👋, I'm Chetana CN</h1>
+<h1 align="center"> 👀 I’m interested in Products </h1>
+<h1 align="center">🌱 I’m currently learning Solidity and cloud </h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **CHINNANAGIREDDY.CHETANA@GMAIL.COM**
