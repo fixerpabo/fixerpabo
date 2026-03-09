@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chetana CN</h1>
 <h1 align="center"> 👀 I’m interested in Products </h1>
-<h1 align="center">🌱 I’m currently learning Solidity and cloud </h1>
+<h1 align="center">🌱 I’m  learning Solidity and cloud </h1>
 
-<h3 align="center">A passionate Product Teamer from India</h3>
+<h3 align="center"> A passionate Product Teamer from India</h3>
 
 - 📫 How to reach me **CHINNANAGIREDDY.CHETANA@GMAIL.COM**
 
